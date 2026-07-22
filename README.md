@@ -26,7 +26,7 @@ My independent research focuses on **reward hacking and AI alignment** — build
 
 ## Professional Highlights 🌟
 
-- **Delivery Data Scientist** — Turing (Palo Alto, remote), client engagements for Google, Meta, Amazon, Nvidia, OpenAI & Anthropic (2024 – 2026)
+- **Delivery Data Scientist** — Turing, client engagements for Google, Meta, Amazon, Nvidia, OpenAI & Anthropic (2024 – 2026)
 - **Graduate Researcher** — IIT Guwahati CSE Dept., RL-based UAV deployment optimization, published IEEE COMSNETS 2026 (2023 – 2024)
 - **Research Intern** — IIT BHU, deep learning for power-system fault detection (2021)
 - **MS by Research (CSE)** — Indian Institute of Technology, Guwahati (2022 – 2024)
@@ -69,15 +69,6 @@ Published at **IEEE COMSNETS 2026** — centralized Q-learning with Boltzmann ex
 ![PostgreSQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Specialties:** RLHF · SFT · Reward Modeling · Reward Hacking Detection · Alignment Stress-Testing · Preference Optimization · QLoRA/LoRA/PEFT · LLM Evaluation (LLM-as-a-Judge, SXS) · RAG (BM25, embeddings) · Agentic AI (LangGraph, MCP) · RL Environments & Verifiers · Scalable Oversight · Red-Teaming
-
----
-
-## GitHub Stats 📊
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Swateya03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swateya03&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
 
 ---
 
