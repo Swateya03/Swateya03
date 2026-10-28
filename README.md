@@ -30,7 +30,7 @@ My independent research focuses on **reward hacking and AI alignment** — build
 - **Graduate Researcher** — IIT Guwahati CSE Dept., RL-based UAV deployment optimization, published IEEE COMSNETS 2026 (2023 – 2024)
 - **Research Intern** — IIT BHU, deep learning for power-system fault detection (2021)
 - **MS by Research (CSE)** — Indian Institute of Technology, Guwahati (2022 – 2024)
-- **GATE (EEE)** — All-India rank in top 0.1% (2022)
+- **GATE (EEE)** — All-India rank in top 5% (2022)
 
 ---
 
